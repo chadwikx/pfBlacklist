@@ -1,0 +1,19 @@
+ /$$       /$$$$$$$$ /$$    /$$ /$$$$$$$$ /$$              /$$$$$$ 
+| $$      | $$_____/| $$   | $$| $$_____/| $$             /$$__  $$
+| $$      | $$      | $$   | $$| $$      | $$            |__/  \ $$
+| $$      | $$$$$   |  $$ / $$/| $$$$$   | $$               /$$$$$/
+| $$      | $$__/    \  $$ $$/ | $$__/   | $$              |___  $$
+| $$      | $$        \  $$$/  | $$      | $$             /$$  \ $$
+| $$$$$$$$| $$$$$$$$   \  $/   | $$$$$$$$| $$$$$$$$      |  $$$$$$/
+|________/|________/    \_/    |________/|________/       \______/ 
+                                                                                  
+Note: This updates every 4 hours.
+Deny: INBOUND    
+                                                    
+##########################################################
+
+https://lists.blocklist.de/lists/all.txt
+
+http://danger.rulez.sk/projects/bruteforceblocker/blist.php
+
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level3.netset

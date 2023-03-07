@@ -1,0 +1,29 @@
+ /$$       /$$$$$$$$ /$$    /$$ /$$$$$$$$ /$$             /$$$$$$$ 
+| $$      | $$_____/| $$   | $$| $$_____/| $$            | $$____/ 
+| $$      | $$      | $$   | $$| $$      | $$            | $$      
+| $$      | $$$$$   |  $$ / $$/| $$$$$   | $$            | $$$$$$$ 
+| $$      | $$__/    \  $$ $$/ | $$__/   | $$            |_____  $$
+| $$      | $$        \  $$$/  | $$      | $$             /$$  \ $$
+| $$$$$$$$| $$$$$$$$   \  $/   | $$$$$$$$| $$$$$$$$      |  $$$$$$/
+|________/|________/    \_/    |________/|________/       \______/ 
+                                                                             
+Note: This updates every 12 hours.
+Deny: BOTH    
+                                                    
+##########################################################
+
+https://feodotracker.abuse.ch/downloads/ipblocklist_recommended.txt
+
+https://sslbl.abuse.ch/blacklist/sslipblacklist.txt
+
+https://cinsarmy.com/list/ci-badguys.txt
+
+https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt
+
+https://rules.emergingthreats.net/blockrules/compromised-ips.txt
+
+https://isc.sans.edu/block.txt
+
+https://www.spamhaus.org/drop/drop.txt
+
+https://www.spamhaus.org/drop/edrop.txt

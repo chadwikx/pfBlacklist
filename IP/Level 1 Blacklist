@@ -1,0 +1,23 @@
+ /$$       /$$$$$$$$ /$$    /$$ /$$$$$$$$ /$$               /$$  
+| $$      | $$_____/| $$   | $$| $$_____/| $$             /$$$$  
+| $$      | $$      | $$   | $$| $$      | $$            |_  $$  
+| $$      | $$$$$   |  $$ / $$/| $$$$$   | $$              | $$  
+| $$      | $$__/    \  $$ $$/ | $$__/   | $$              | $$  
+| $$      | $$        \  $$$/  | $$      | $$              | $$  
+| $$$$$$$$| $$$$$$$$   \  $/   | $$$$$$$$| $$$$$$$$       /$$$$$$
+|________/|________/    \_/    |________/|________/      |______/
+                                                                 
+Note: This updates every 2 hours.
+Deny: BOTH    
+                                                    
+##########################################################
+
+https://rules.emergingthreats.net/blockrules/compromised-ips.txt
+
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/cybercrime.ipset
+
+https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt
+
+https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level1.netset
+
+http://www.abuseat.org/iotcc.txt
